@@ -112,7 +112,3 @@ Contributions, issues, and feature requests are welcome!
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-<div align="center">
-  <p>Developed by <b>DN Groups</b> | Contact: merndevloops@gmail.com</p>
-</div>
